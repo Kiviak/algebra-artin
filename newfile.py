@@ -1,8 +1,8 @@
 
 
 if __name__=='__main__':
-    chapter=3
-    arr=[11,2,8,5,3,4]
+    chapter=4
+    arr=[5,5,4,8,10,11,9]
    
     fpath='/home/kivi/algebra-artin/'+str(chapter)+'/'
     fpath2='/home/kivi/algebra-artin/solution/'+str(chapter)+'/'
